@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "prodName": "Solid Gold Petite Micropave ",
+      "prodImage": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "prodPrice": "123",
+      "id": 1
+    },
+    {
+      "prodName": "White Gold Plated Princess",
+      "prodImage": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "prodPrice": "3444",
+      "id": 2
+    },
+    {
+      "prodName": "ierced Owl Rose Gold Plated ",
+      "prodImage": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "prodPrice": "7665",
+      "id": 3
+    },
+    {
+      "prodName": "WD 2TB Elements Portable External Hard Drive - US",
+      "prodImage": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "prodPrice": "734",
+      "id": 4
+    },
+    {
+      "prodName": "SanDisk SSD PLUS 1TB Internal",
+      "prodImage": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "prodPrice": "432",
+      "id": 5
+    },
+    {
+      "prodName": "ilicon Power 256GB SSD 3D NAND",
+      "prodImage": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+      "prodPrice": "987",
+      "id": 6
+    },
+    {
+      "prodName": "tshirt",
+      "prodImage": "https://media.istockphoto.com/id/1407759041/photo/confident-happy-beautiful-hispanic-student-girl-indoor-head-shot-portrait.jpg?b=1&s=170667a&w=0&k=20&c=--Ei0owZ8KqwVppB5o0bMRG4aNV8VA0HHnsH1YfuxAw=",
+      "prodPrice": "12000",
+      "id": 8
+    },
+    {
+      "prodName": "tshirt",
+      "prodImage": "https://media.istockphoto.com/id/1407759041/photo/confident-happy-beautiful-hispanic-student-girl-indoor-head-shot-portrait.jpg?b=1&s=170667a&w=0&k=20&c=--Ei0owZ8KqwVppB5o0bMRG4aNV8VA0HHnsH1YfuxAw=",
+      "prodPrice": "5462",
+      "id": 9
+    },
+    {
+      "prodName": "Solid Gold Petite Micropave ",
+      "prodImage": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "prodPrice": "4533",
+      "id": 10
+    }
+  ]
+}
